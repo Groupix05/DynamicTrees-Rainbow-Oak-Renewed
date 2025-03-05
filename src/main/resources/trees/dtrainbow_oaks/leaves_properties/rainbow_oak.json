@@ -1,0 +1,6 @@
+{
+  "primitive_leaves": "rainbowoaks:rainbow_leaves",
+  "texture_overrides": {
+    "leaves": "minecraft:block/oak_leaves"
+  }
+}

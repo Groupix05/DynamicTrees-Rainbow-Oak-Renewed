@@ -1,0 +1,7 @@
+{
+  "loader": "dynamictrees:branch",
+  "textures": {
+    "bark": "rainbowoaks:block/rainbow_log",
+    "rings": "rainbowoaks:block/rainbow_log_top"
+  }
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "select": { "name" : "minecraft:flower_forest" },
+        "apply": {
+            "species" : {
+                "method" : "splice_before",
+                "random" : {
+                    "dtrainbow_oaks:rainbow_oak" : 1,
+                    "..." : 10
+                }
+            }
+        }
+    }
+]

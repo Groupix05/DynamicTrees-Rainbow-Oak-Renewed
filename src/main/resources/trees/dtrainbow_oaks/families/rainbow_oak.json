@@ -1,0 +1,9 @@
+{
+  "common_leaves": "dtrainbow_oaks:rainbow_oak",
+  "common_species": "dtrainbow_oaks:rainbow_oak",
+  "primitive_log": "rainbowoaks:rainbow_log",
+  "primitive_stripped_log": "minecraft:stripped_oak_log",
+  "max_branch_radius": 24,
+  "generate_surface_root": true,
+  "max_signal_depth": 64
+}

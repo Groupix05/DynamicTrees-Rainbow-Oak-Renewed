@@ -1,0 +1,44 @@
+license="MIT"
+modLoader="javafml"
+loaderVersion="[47,)"
+issueTrackerURL="https://github.com/Groupix05/DynamicTrees-Rainbow-Oak-Renewed/issues"
+
+[[mods]]
+modId="dtrainbow_oaks"
+version="${file.jarVersion}"
+displayName="Dynamic Trees for Rainbow Oaks Renewed"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/dynamic-trees-rainbow-oak-renewed"
+logoFile="logo.png"
+credits=""
+authors="Groupix05"
+description='''
+Adds Dynamic Trees compatibility for Rainbow Oaks Renewed.
+'''
+
+[[dependencies.dtrainbow_oaks]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47.1.3,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.dtrainbow_oaks]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.dtrainbow_oaks]]
+    modId="dynamictrees"
+    mandatory=true
+    versionRange="[1.3.6,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.dtrainbow_oaks]]
+    modId="rainbowoaks"
+    mandatory=true
+    versionRange="[1.0.0,)"
+    ordering="AFTER"
+    side="BOTH"

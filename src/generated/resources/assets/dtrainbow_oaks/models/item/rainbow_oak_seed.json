@@ -1,0 +1,6 @@
+{
+  "parent": "dynamictrees:item/standard_seed",
+  "textures": {
+    "layer0": "dtrainbow_oaks:item/rainbow_oak_seed"
+  }
+}
